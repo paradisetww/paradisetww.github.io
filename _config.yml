@@ -19,7 +19,7 @@ NickName: 'Paradise'
 webtitle: 'Blogs of Weiwei Tian'
 bio: 'doctoral student of biomedical engineering'
 about: true
-aboutyou: '         Topics related to Medical Image Processing & Artificial Intelligence'
+aboutyou: 'Topics related to Medical Image Processing & Artificial Intelligence'
 portraits: '/assets/portrait.jpg' # your portraits image file path
 
 # SNS
